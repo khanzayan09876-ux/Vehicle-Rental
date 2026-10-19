@@ -1,0 +1,2 @@
+JWT_SECRET=yahan_koi_lambi_random_string_likho_jaise_k9Xp2vLm8QwZr4TnB7
+NODE_ENV=development
